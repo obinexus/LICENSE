@@ -168,4 +168,5 @@ This license applies to:
 - Accessibility adaptations
 - Community calibration database
 
-For questions: license@obinex
+For questions: license@obinexus.org/support@obinexus.org
+When Systems Fails We build our OWN
